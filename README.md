@@ -1,3 +1,3 @@
 ### Hello 🖐
 
-  My name is Konstantin. I'm a Software Engineer from iTechArt.
+  My name is Konstantin. I'm a Front-end Engineer from bweb.studio.
